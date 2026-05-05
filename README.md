@@ -1,0 +1,2 @@
+# Proyecto-An-lisis-de-embudo-y-retenci-n-para-MercadoLibre---Resumen-ejecutivo
+El director de producto de Mercado Libre necesita entender en qué etapa del proceso se pierden usuarios y cómo mejorar su retención a lo largo del tiempo. Como analista usaré SQL para mapear el embudo de conversión completo, identificar los principales puntos de fuga, analizar retención por cohortes y proponer mejoras accionables basadas en datos.
